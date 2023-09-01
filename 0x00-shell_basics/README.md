@@ -1,1 +1,1 @@
-This directory is for 0x00-shell_basics tasks
+This directory for 0x00-shell_basics tasks
